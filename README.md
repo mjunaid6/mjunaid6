@@ -1,8 +1,7 @@
-# 💫 About Me:
-- 👨‍💻 Computer Engineering undergrad  
-- 👯 I’m looking to collaborate on web development projects  
-- 🌱 Currently exploring cloud computing & scalable architectures  
-- ⚡ I love building full-stack apps and experimenting with modern UI/UX
+# Hi, I'm Junaid
+
+I like building things for the web — sometimes full-stack apps, sometimes cloud-powered workflows, sometimes just cool UI experiments.
+Currently exploring how cloud + frontend engineering can come together to create fast, scalable products.
 
 ---
 
@@ -33,6 +32,3 @@
 `Git` `GitHub` `Postman` `Docker` `Figma`
 
 ---
-
-# 📊 GitHub Stats:
-![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjunaid6&show_icons=true&theme=transparent)
