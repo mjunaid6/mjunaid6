@@ -1,16 +1,38 @@
-## Hi there 👋
+# 💫 About Me:
+- 👨‍💻 Computer Engineering undergrad  
+- 👯 I’m looking to collaborate on web development projects  
+- 🌱 Currently exploring cloud computing & scalable architectures  
+- ⚡ I love building full-stack apps and experimenting with modern UI/UX
 
-<!--
-**mjunaid6/mjunaid6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🌐 Socials:
+- **LinkedIn:** https://linkedin.com/in/mohammad-junaid-b0729628a  
+- **Email:** mohmmadjunaid007@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💻 Tech Stack (From My Resume):
+
+**Languages:**  
+`Java` `Python` `C` `JavaScript`
+
+**Frontend:**  
+`React.js` `HTML5` `CSS3`
+
+**Backend:**  
+`Spring Boot`
+
+**Databases:**  
+`MySQL` `MongoDB` `DynamoDB` `SQL`
+
+**Cloud:**  
+`AWS (Lambda, API Gateway, DynamoDB)` `Google Cloud` `Firebase`
+
+**Tools:**  
+`Git` `GitHub` `Postman` `Docker` `Figma`
+
+---
+
+# 📊 GitHub Stats:
+![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjunaid6&show_icons=true&theme=transparent)
