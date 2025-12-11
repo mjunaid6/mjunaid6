@@ -11,7 +11,7 @@ Currently exploring how cloud + frontend engineering can come together to create
 
 ---
 
-# 💻 Tech Stack (From My Resume):
+# 💻 Tech Stack:
 
 **Languages:**  
 `Java` `Python` `C` `JavaScript`
